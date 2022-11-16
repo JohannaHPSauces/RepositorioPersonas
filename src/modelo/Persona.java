@@ -6,6 +6,7 @@ public class Persona {
 	private String apellido1;
 	private String apellido2;
 	private int edad;
+	private int estatura;
 	
 	public Persona(String nombre, String apellido1, String apellido2, int edad) {
 		super();
